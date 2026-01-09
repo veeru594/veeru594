@@ -1,4 +1,4 @@
-# Veeru Kumar 👋
+# Veererendra Kumar 👋
 
 **AI & Automation Developer | Data Analyst**  
 Building reliable, production-ready systems that replace manual workflows with intelligent automation.
