@@ -49,7 +49,7 @@ I **don’t** build toy projects or tutorial clones.
 ---
 
 ## 🔗 Links
-- **Portfolio:** https://veeru594.github.io  
+- **Portfolio:** https://veerendrakumar-portfolio.web.app/
 - **LinkedIn:** https://www.linkedin.com/in/veerendra-kumar-7615b2347/  
 - **GitHub:** https://github.com/veeru594
 
